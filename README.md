@@ -4,12 +4,11 @@
 
 > zabiralnazi@yahoo.com
 
-publication link: https://www.researchgate.net/publication/330564744_Automatic_Skin_Lesion_Segmentation_and_Melanoma_Detection_Transfer_Learning_approach_with_U-Net_and_DCNN-SVM
+publication link: https://link.springer.com/chapter/10.1007/978-981-13-7564-4_32
+
+doi: https://doi.org/10.1007/978-981-13-7564-4_32
 
 
-`@cite
-title: Automatic Skin Lesion Segmentation and Melanoma Detection: Transfer Learning approach with U-Net and DCNN-SVM;
-authors: Zabir Al Nazi, Tasnim Azad Abir;
-conference:  International Joint Conference on Computational Intelligence (IJCCI 2018);
-year: 2018
-`
+```@cite
+Nazi Z.A., Abir T.A. (2020) Automatic Skin Lesion Segmentation and Melanoma Detection: Transfer Learning Approach with U-Net and DCNN-SVM. In: Uddin M., Bansal J. (eds) Proceedings of International Joint Conference on Computational Intelligence. Algorithms for Intelligent Systems. Springer, Singapore
+```
